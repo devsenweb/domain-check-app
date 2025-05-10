@@ -4,7 +4,7 @@ This tool generates all possible 4-letter domain name combinations and filters t
 
 ---
 
-## Features
+## Features ##
 
 - Generates all 456,976 possible 4-letter combinations (A–Z, 4 characters)
 - Filters results based on brandability criteria, including:

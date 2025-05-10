@@ -1,29 +1,17 @@
-# 🔤 4-Letter Brandable Domain Name Generator
+# 4-Letter Domain Name Generator
 
-Welcome to the **4-Letter Brandable Domain Name Generator** — a tool built to help creative entrepreneurs, domain investors, and founders discover unique, catchy, and AI-era-ready domain names.
+This tool generates brandable, four-letter domain name combinations and filters them using customizable rules to identify catchy, pronounceable, and modern domain names. It is ideal for entrepreneurs, product builders, domain investors, and branding specialists looking for short and memorable domain names.
 
-Whether you're launching a startup, naming a product, or investing in premium domains, this app intelligently generates 4-letter combinations based on modern branding psychology and filters out the noise.
+## Features
 
----
+- Generates all possible 4-letter combinations (456,976 total)
+- Filters results based on:
+  - Presence of vowels
+  - No repeated characters
+  - Preferred endings (e.g., "x", "z", "o", "n", "r")
+  - Optional GenAI-style patterns (e.g., contains "ai", "ml", "nn")
+- Outputs filtered names to a `.txt` file
+- Easily extensible for domain availability checks
 
-## 🚀 Features
+## Sample Output
 
-- ✅ Generates **all possible 4-letter combinations** using A–Z (26^4 = 456,976 names)
-- 🎯 Filters for **pronounceability**, **vowel presence**, and **tech-friendly endings**
-- 🧠 Option to focus on names that **feel AI/GenAI inspired** (e.g., `vaix`, `gair`, `zivo`)
-- 🔍 Optional support for **domain availability checking** via third-party APIs
-- 💾 Exports results to a `.txt` file for quick review or bulk analysis
-
----
-
-## 📂 Output Samples
-
-```text
-vaix
-gair
-zuno
-ymox
-givo
-fayo
-nilo
-xair
